@@ -1,0 +1,7 @@
+{
+    "name": "scratch_gui",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }

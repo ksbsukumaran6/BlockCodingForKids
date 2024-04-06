@@ -1,0 +1,8 @@
+{
+    "appId": "io.ionic.scratch_gui",
+    "appName": "scratch_gui",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {}
+  }

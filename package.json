@@ -32,6 +32,8 @@
     }
   },
   "dependencies": {
+    "@capacitor/android": "5.6.0",
+    "@capacitor/core": "^5.6.0",
     "@microbit/microbit-universal-hex": "0.2.2",
     "arraybuffer-loader": "^1.0.6",
     "autoprefixer": "^9.0.1",
@@ -67,9 +69,9 @@
     "prop-types": "^15.5.10",
     "query-string": "^5.1.1",
     "raw-loader": "^0.5.1",
-    "react": "16.14.0",
+    "react": "^16.0.0",
     "react-contextmenu": "2.9.4",
-    "react-dom": "16.14.0",
+    "react-dom": "^16.0.0",
     "react-draggable": "3.0.5",
     "react-ga": "2.5.3",
     "react-intl": "2.9.0",
@@ -111,6 +113,7 @@
     "@babel/plugin-transform-async-to-generator": "7.14.5",
     "@babel/preset-env": "7.14.8",
     "@babel/preset-react": "7.14.5",
+    "@capacitor/cli": "^5.6.0",
     "@commitlint/cli": "17.8.1",
     "@commitlint/config-conventional": "17.8.1",
     "babel-core": "7.0.0-bridge.0",
