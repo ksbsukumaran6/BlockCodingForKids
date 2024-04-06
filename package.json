@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "scratch-blocks": "^0.2.0-prerelease.20231013132110",
+    "webpack": "^5.89.0"
+  },
+  "dependencies": {
+    "scratch-gui": "^3.2.37",
+    "scratch-vm": "^2.1.29"
+  }
+}
